@@ -1,4 +1,7 @@
 {
     "Posts": true,
-    "Admins": true
+    "Admins": true,
+    "Storage": true,
+    "Loginuser": true,
+    "Profile": true
 }

@@ -1,0 +1,11 @@
+{
+    "name": "Loginuser",
+    "alias": "loginuser",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Loginuser\\Providers\\LoginuserServiceProvider"
+    ],
+    "files": []
+}
